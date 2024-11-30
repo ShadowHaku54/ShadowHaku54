@@ -42,7 +42,7 @@ Here are some of my core skills:
 
 ## How to Contact Me
 
-Want to learn more or discuss projects? Feel free to reach out via [my GitHub profile](https://github.com/yourusername) or [my email](mailto:youremail@example.com).
+Want to learn more or discuss projects? Feel free to reach out via [my GitHub profile](https://github.com/ShadowHaku54).
 
 ## Contributions
 
