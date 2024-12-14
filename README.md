@@ -14,20 +14,21 @@ I specialize in areas such as:
 
 ## My Recent Projects
 
-### 1. **ParsHub**  
-An innovative project to retrieve links from selected elements in a web interface. It automatically extracts links from a set of selected elements with a simple click, no text extraction required.
+### 1. **CrediFlow**  
+...
 
-### 2. **Local E-commerce (Fruits and Vegetables)**  
-Creating an e-commerce site to sell fruits and vegetables online, with a focus on product management, orders, and an intuitive user interface.
+### 2. **MiniProjets**  
+...
 
-### 3. **Linux Kernel Compilation Training**  
-A detailed project aimed at teaching Linux kernel compilation using the **DISA** method (Definition, Information, Solution, Application) with ultra-detailed explanations.
+### 3. **Projet-C-ISM-**
+...
+
 
 ## Skills
 
 Here are some of my core skills:
 - **Front-End and Back-End Development**  
-- **WordPress & WooCommerce**  
+- **WordPress**  
 - **Linux Kernel Compilation**  
 - **Professional PowerPoint Presentation Creation**  
 - **Python Programming (and code optimization)**  
@@ -36,9 +37,9 @@ Here are some of my core skills:
 
 ## Upcoming Projects
 
-- **Artificial Intelligence Exploration**: Creating a project that applies the latest advancements in AI for practical solutions.
-- **E-commerce Chatbot**: Building a chatbot to improve the customer experience in an online fruit and vegetable store.
-- **Python Code Optimization**: Working on optimizing Python code for increased performance.
+-
+-
+-
 
 ## How to Contact Me
 
@@ -51,7 +52,7 @@ Contributions are always welcome! If you'd like to collaborate on any of my proj
 ---
 
 **Thanks for visiting my profile!**  
-👨‍💻 **Self-Taught Developer** | 🎓 **Software Engineering Student** | 🤖 **AI Enthusiast** | 💻 **Python Developer**
+👨‍💻 **Self-Taught Developer** | 🎓 **Software Engineering Student** | 🤖 **AI Enthusiast** | 💻 **C-Python-JavaScript-PHP Developer**
 
 
 <!---
